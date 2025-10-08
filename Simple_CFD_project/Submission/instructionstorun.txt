@@ -1,0 +1,4 @@
+me22b174
+
+Must install Eigen be included in path before runnning otherwise errors come up
+I have already compilled, run ./out1.exe to start code
